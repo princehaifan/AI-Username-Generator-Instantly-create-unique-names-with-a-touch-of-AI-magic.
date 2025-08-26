@@ -1,0 +1,5 @@
+{
+  "name": "AI Username Generator",
+  "description": "An AI-powered application to help users generate creative and unique usernames based on a seed word and category, with options for customization and a list of favorites.",
+  "requestFramePermissions": []
+}
